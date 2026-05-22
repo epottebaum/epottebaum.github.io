@@ -23,8 +23,8 @@ repository               : "epottebaum/epottebaum.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Firstname Lastname"
+  avatar           : "emilyPic_2022.png"
+  name             : "Emily Pottebaum"
   pronouns         : # example: "she/her"  
   bio              : "PhD student doing research in heavy ion physics"
   location         : "New Haven, CT"
