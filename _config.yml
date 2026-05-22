@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Emily's Academic Webpage"
+title                    : "My Academic Webpage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "My academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "epottebaum/epottebaum.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Firstname Lastname"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student doing research in heavy ion physics"
+  location         : "New Haven, CT"
+  employer         : "Yale University"
   uri              : # URL
   email            : "none@example.org" 
 
